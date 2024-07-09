@@ -1,0 +1,2 @@
+# install-mariadb
+INSTALL MARIADB BIAR BISA DIREMOTE
